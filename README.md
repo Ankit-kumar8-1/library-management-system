@@ -48,7 +48,7 @@ library-management-system/
     spring.datasource.password=your_password
     spring.jpa.hibernate.ddl-auto=update
 
-3.  Build and Run
+4.  Build and Run
      mvn spring-boot:run
     
 5.  API Endpoints Examples
